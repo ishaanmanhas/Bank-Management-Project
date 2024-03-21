@@ -4,4 +4,4 @@ Scenario based project on Bank Management System which is based on dot NET.  It 
 Project Report giving details of the project.
 - bankmanagementsys.c
 Source Code
-- Programming languages used - C, SQL
+- Programming languages used - C
